@@ -6,6 +6,9 @@ export interface Prestador {
   telefone: string;
   email: string;
   website?: string;
+  recomendadoPor?: string;
+  cidade: string;
+  estado: string;
 }
 
 export interface Engenheiro {

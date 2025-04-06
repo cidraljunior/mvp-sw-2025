@@ -7,7 +7,10 @@
       "descricao": "Empresa especializada em construções residenciais e comerciais com mais de 20 anos de experiência.",
       "telefone": "(11) 99999-1111",
       "email": "contato@construcoessilva.com.br",
-      "website": "https://construcoessilva.com.br"
+      "website": "https://construcoessilva.com.br",
+      "recomendadoPor": "Associação Brasileira de Engenheira Civil",
+      "cidade": "São Paulo",
+      "estado": "SP"
     },
     {
       "id": "2",
@@ -15,7 +18,10 @@
       "categoria": "Instalações Elétricas",
       "descricao": "Serviços de instalação e manutenção elétrica residencial e comercial.",
       "telefone": "(11) 99999-2222",
-      "email": "contato@eletricasantos.com.br"
+      "email": "contato@eletricasantos.com.br",
+      "recomendadoPor": "Sindicato dos Eletricitários",
+      "cidade": "São Paulo",
+      "estado": "SP"
     },
     {
       "id": "3",
@@ -24,7 +30,10 @@
       "descricao": "Especialistas em instalações hidráulicas, detecção e conserto de vazamentos.",
       "telefone": "(11) 99999-3333",
       "email": "contato@hidraulicaexpress.com.br",
-      "website": "https://hidraulicaexpress.com.br"
+      "website": "https://hidraulicaexpress.com.br",
+      "recomendadoPor": "Associação Nacional de Engenheiros Hidráulicos",
+      "cidade": "Campinas",
+      "estado": "SP"
     },
     {
       "id": "4",
@@ -32,7 +41,10 @@
       "categoria": "Climatização",
       "descricao": "Instalação e manutenção de sistemas de ar condicionado residencial e comercial.",
       "telefone": "(11) 99999-4444",
-      "email": "contato@arconforto.com.br"
+      "email": "contato@arconforto.com.br",
+      "recomendadoPor": "Sociedade Brasileira de Refrigeração",
+      "cidade": "Santos",
+      "estado": "SP"
     },
     {
       "id": "5",
@@ -40,7 +52,33 @@
       "categoria": "Pintura",
       "descricao": "Serviços de pintura residencial e comercial com acabamento de alta qualidade.",
       "telefone": "(11) 99999-5555",
-      "email": "contato@pinturaperfeita.com.br"
+      "email": "contato@pinturaperfeita.com.br",
+      "recomendadoPor": "Associação Brasileira de Pintores Profissionais",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    },
+    {
+      "id": "6",
+      "nome": "Instalações Elétricas Rio",
+      "categoria": "Instalações Elétricas",
+      "descricao": "Serviços elétricos residenciais e comerciais com garantia de qualidade.",
+      "telefone": "(21) 99999-6666",
+      "email": "contato@eletricario.com.br",
+      "recomendadoPor": "Sindicato dos Eletricitários do Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
+    },
+    {
+      "id": "7",
+      "nome": "Construções Belo Horizonte",
+      "categoria": "Construção Civil",
+      "descricao": "Empresa de construção civil com foco em sustentabilidade e qualidade.",
+      "telefone": "(31) 99999-7777",
+      "email": "contato@construcoesbh.com.br",
+      "website": "https://construcoesbh.com.br",
+      "recomendadoPor": "Associação Brasileira de Engenheira Civil",
+      "cidade": "Belo Horizonte",
+      "estado": "MG"
     }
   ],
   "users": []
